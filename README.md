@@ -1,2 +1,2 @@
 # noyz_Cam
-RPi 5 Python code + esp32S2 Arduino code for high specificity noisy vehicle tracking camera
+A high specificity noisy vehicle tracking camera using RPi 5 Python cv2 for vision and esp32S2 Arduino for stereo recording and noise direction estimation
