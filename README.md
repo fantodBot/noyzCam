@@ -1,5 +1,5 @@
 # noyzCam
-A high specificity noisy vehicle tracking camera using RPi 5 Python cv2 for video recording and ESP32S2 Arduino for stereo recording and 2D noise direction estimation
+A high specificity noisy vehicle tracking camera using RPi 5 Python cv2 for video and ESP32S2 Arduino for stereo and 2D noise direction estimation
 # Hardware:
 [Raspberry Pi 5](https://www.digikey.com/en/products/detail/raspberry-pi/SC1431/21658261)  
 [RPi Active Cooler](https://www.digikey.com/en/products/detail/raspberry-pi/SC1148/21658255)  
